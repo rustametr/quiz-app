@@ -1,0 +1,12 @@
+.question-container{
+    padding: 50px;
+    width: calc(100% - 100px);
+    border: 1px solid #E26868;
+    border-radius: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    background: #EDEDED;
+    color: #E26868;
+    text-align: center;
+    font-size: 25px;
+}
